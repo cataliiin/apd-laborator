@@ -5,6 +5,7 @@ Nod de achiziție a temperaturii bazat pe Arduino Uno.
 ## Hardware
 Arduino Uno R3, senzor de temperatură TMP36
 Comunicație serială la 115200 baud
+Comunicație serială la 19200 baud
 ## Parametri
 ---
 ---
