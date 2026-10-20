@@ -4,6 +4,6 @@
 #define BUTTON_PIN 2 // buton de pornire/oprire achiziție
 #define CONFIG_H
 #define SENSOR_PIN A0 // intrarea analogică a senzorului
-#define SAMPLE_PERIOD_MS 1000 // perioada de eșantionare (ms)
+#define SAMPLE_PERIOD_MS 5000 // economie de energie (baterie)
 #define SERIAL_BAUD 9600 // viteza portului serial
 #endif
